@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Màu Berry Smoothle-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:angle="315"
+
+        android:startColor="#8e78ff"
+        android:endColor="#fc7d7b"/>
+</shape>
+
+<!--//Màu cũ:-->
+<!--    android:startColor="#5efce8"-->
+<!--    android:endColor="#736efe"/>-->
+
+
+<!--    android:startColor="#eead92"-->
+<!--    android:endColor="#6018dc"-->

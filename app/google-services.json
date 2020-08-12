@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331744669761",
+    "firebase_url": "https://annaplay-c9d40.firebaseio.com",
+    "project_id": "annaplay-c9d40",
+    "storage_bucket": "annaplay-c9d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331744669761:android:9ed92d9e70947ba05a16c0",
+        "android_client_info": {
+          "package_name": "com.nta.annaplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331744669761-3sr4kca9s86bd7u577rrtrmhfp6jem43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nta.annaplay",
+            "certificate_hash": "8e8e6efb06fd06ba2034e92f873448564cdd42cb"
+          }
+        },
+        {
+          "client_id": "331744669761-8a8t4uchi5876uq9b1f8g1d76hoer8l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA831B2by94x7XQ5omkbvqk41WVu1Z78Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331744669761-8a8t4uchi5876uq9b1f8g1d76hoer8l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
